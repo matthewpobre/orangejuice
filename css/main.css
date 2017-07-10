@@ -1,0 +1,102 @@
+nav {
+  background-color: orange;
+  font-family: helvetica;
+  padding: 10px;
+  top: 0px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  position: relative;
+}
+
+ul {
+  color: white;
+}
+
+li {
+  display: inline;
+}
+
+#left-nav {
+  font-size: 22px;
+}
+
+.right-nav {
+  text-align: right;
+  float: right;
+  padding: 0 20px;
+}
+
+hr {
+  border: 3px solid darkorange;
+  top: 0px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+section {
+  display: inline-block;
+  height: 475px;
+}
+
+#searchbar {
+  float: right;
+  display: block;
+  margin: 0;
+  height: 50px;
+  position: relative;
+}
+
+#searchbar input {
+  padding: 10px 0;
+}
+
+img {
+  width: 50%;
+  height: 70%;
+}
+
+p {
+  width: 50%;
+  display: inline;
+  font-family: helvetica;
+  position: absolute;
+  font-size: 40px;
+  color: orange;
+  line-height: 55px;
+  letter-spacing: .5px;
+}
+
+img, p {
+  margin-top: 100px;
+}
+.orange {
+  font-weight: bold;
+}
+
+#buttons {
+  display: inline;
+
+}
+
+button {
+  padding: 15px 40px;
+  margin: 0 0 20px 20px;
+  border: none;
+  color: white;
+  font-size: 14px;
+}
+
+#quote {
+  background-color: orange;
+}
+
+#studies {
+  background-color: darkturquoise;
+}
+
+footer {
+  height: 115px;
+  background-color: darkturquoise;
+}
